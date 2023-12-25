@@ -1,0 +1,6 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1703538791
+export_presets.cfg::TextFile::-1::1703538550::0::1::::<><>::
+icon.svg::CompressedTexture2D::6373733551754743652::1703537749::1703537749::1::::<><>::
+NetworkingClient.gd::GDScript::-1::1703537749::0::1::::<>Node<>::
+NetworkingClient.tscn::PackedScene::656575761024644187::1703538068::0::1::::<><>::res://NetworkingClient.gd
